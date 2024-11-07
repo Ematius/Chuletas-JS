@@ -1,5 +1,19 @@
-.funcionesArray__busqueda{
+html{
+    size: 10px;
+}
+h1{
+    font-family: ;
+}
+
+.layout{
+    background-color: #16697A;
+}
+
+.layoutArray__busqueda{
     background-color: skyblue;
     
     
+}
+.layoutArray__math{
+    background-color: #82C0CC;
 }
